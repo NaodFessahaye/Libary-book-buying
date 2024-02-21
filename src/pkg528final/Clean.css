@@ -1,0 +1,16 @@
+.root {
+-fx-background-color : #ffaadd;
+    
+}
+
+.label{
+    -fx-text-fill: #AB4642;
+}
+
+.loginButton{
+    -fx-font: 15 arial; 
+    -fx-base: #ee2211;    
+    
+}
+
+
